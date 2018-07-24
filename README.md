@@ -1,3 +1,5 @@
+You must have an [elasticsearch] (https://www.elastic.co/guide/en/elasticsearch/guide/current/running-elasticsearch.html) instance running on `localhost:9200`
+
 Run `npm install`.
 Run `index.js` to start the server on `127.0.0.1:3030`
 
